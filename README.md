@@ -1,4 +1,4 @@
-# python-column-editorial-scrapper
+# python-Dawn-opinion-and-editorial-scrapper
 
 [See Demo by clicking here...](https://dev.musafhanif.com/scrapperflask) 
 
